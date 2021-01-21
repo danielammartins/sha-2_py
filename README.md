@@ -1,2 +1,9 @@
 # sha-2_py
-sha-2 hashing functions in python
+
+SHA-2 hashing functions in python:
+- SHA-256
+- SHA-512
+
+**Libraries:**
+- Crypto.Util.Number (pycryptodome)
+- Math
